@@ -8,7 +8,7 @@ The client folder represents the build for the room. Please run npm install on b
 ## The Stack
 
 - Backend: Node.js and Express
-- Database: PostgresQL and Knex
+- Database: PostgreSQL and Knex
 - WebSockets: Socket.io
 - Frontend: React, Redux, EJS, and Scss
 - Development: Webpack
